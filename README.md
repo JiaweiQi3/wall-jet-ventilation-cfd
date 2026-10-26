@@ -1,7 +1,5 @@
 ![Airflow and Thermal Comfort of Contralateral Wall-Attached Jet Ventilation](figures/cover.png)
 
-# Airflow and Thermal Comfort of Contralateral Wall-Attached Jet Ventilation
-
 A CFD study of a ventilation layout that supplies air from slots on two opposite walls of a classroom, so that the jets cling to the walls, turn at the floor, and spread as cool "air lakes" from both sides.
 
 *CFD project, Chongqing University, 2024. Advisor: Prof. Yong Cheng.* Full write-up: [`report/CFD_Report_English.pdf`](report/CFD_Report_English.pdf). Full paper (in Simplified Chinese): [`report/CFD_Paper_Chinese.pdf`](report/CFD_Paper_Chinese.pdf)
