@@ -1,4 +1,4 @@
-![Airflow and Thermal Comfort of Contralateral Wall-Attached Jet Ventilation](assets/cover.png)
+![Airflow and Thermal Comfort of Contralateral Wall-Attached Jet Ventilation](figures/cover.png)
 
 # Airflow and Thermal Comfort of Contralateral Wall-Attached Jet Ventilation
 
